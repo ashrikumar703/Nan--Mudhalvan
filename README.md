@@ -1,6 +1,6 @@
 IPhone_Revolution-NM2023TMID07556
 
-Irevolution -a data driven exploration of apple's iPhone impact 
+Irevolution - A data driven exploration of apple's iPhone impact 
 
 Tableau Dashboard link 1-
 https://public.tableau.com/app/profile/harish.n7079/viz/IPhoneRevolution-NM2023TMID07556/Dashboard1#2
